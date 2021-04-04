@@ -3,4 +3,7 @@ class add(){
 	int b=10;
 	int c=a+b;
 	system.out.println(c);
+	system.out.println(c);
+
+
 }
